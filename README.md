@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safa Kaya</h1>
-<h3 align="center">A software developer working towards his dreams.</h3>
+<h3 align="center">A computer engineering student focused artificial intelligence working towards his dreams.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
